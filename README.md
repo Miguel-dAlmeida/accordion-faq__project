@@ -30,7 +30,7 @@
   <img src="./src/images/gif_mobilePreview.gif" alt="Gif do resultado final da página">
 </div>
 
-### [Acesse a página clicando aqui!](https://miguel-dalmeida.github.io/slider-image_project/) 
+### [Acesse a página clicando aqui!](https://miguel-dalmeida.github.io/accordion-faq__project/) 
 
 ## **Apresentação**
 
@@ -75,7 +75,7 @@ Clique com o botão direito sobre a pasta criada e selecione a opção para abri
 ### 3️⃣ Clone o repositório  
 No terminal, execute o seguinte comando para clonar o repositório:  
 ```sh
-git clonehttps://github.com/Miguel-dAlmeida/accordion-faq_project.git
+git clone https://github.com/Miguel-dAlmeida/accordion-faq__project.git
 ```
 ### 4️⃣ Acesse o diretório do projeto
 Após a clonagem, entre na pasta do projeto executando o comando abaixo em seu terminal:
@@ -144,7 +144,7 @@ Se estiver utilizando outro editor, abra a pasta `accordion-faq__project` manual
   O uso de media queries permitiu ajustar o layout conforme o tamanho da tela, garantindo uma experiência consistente em todos os dispositivos.
 
 - **Posicionamento Avançado:**  
-  Utilizando os valores `relative` e `absolute` da propriedade `display`, pude criar contextos de empilhamento e controlar sobreposições, replicando fielmente o design.
+  Utilizando os valores `relative` e `absolute` da propriedade `position`, pude criar contextos de empilhamento e controlar sobreposições, replicando fielmente o design.
 
 - **Dinamismo entre CSS e JS**:  
   A lógica do acordeão foi construída a partir da classe `.active`, adicionada e removida via JavaScript. Essa classe funciona como um gatilho para o CSS, permitindo modificar propriedades como `max-height` e `display` apenas quando o(s) elemento(s) está ativo. Essa integração entre HTML, CSS e JS garante a transição da abertura e fechamento dos conteúdos, resultando na interação simples que o desafio estipula.
@@ -206,7 +206,7 @@ Sei que esse tipo de pensamento é cruel, mas inevitável. No fim, percebi que o
 
 Se me arrependo? Não sei responder ainda. Talvez em alguns dias eu diga que sim, talvez que não. A verdade é que ainda estou construindo maturidade para lidar com a minha insegurança, que extrapola as barreiras do profissional e representa uma grande ferida, que busco entender e cicatrizar todos os dias.
 
-O que tiro de tudo isso é que aprender programação vai muito além de melhorar tecnicamente. É também um exercício de comportamento, de paciência e até de autoconhecimento. A cada deasfio, reforço a ideia de que minha jornada não é só para me tornar um bom desenvolvedor web, mas também uma pessoa mais resiliente. Ser um profissional de excelência é apenas a ponta do iceberg. O resto — o que está submerso — é um trabalho contínuo de desenvolvimento pessoal.
+O que tiro de tudo isso é que aprender programação vai muito além de melhorar tecnicamente. É também um exercício de comportamento, de paciência e até de autoconhecimento. A cada desafio, reforço a ideia de que minha jornada não é só para me tornar um bom desenvolvedor web, mas também uma pessoa mais resiliente. Ser um profissional de excelência é apenas a ponta do iceberg. O resto — o que está submerso — é um trabalho contínuo de desenvolvimento pessoal.
 
 > 🎶 " _Lá vamos nós de novo. A mesma merda outra vez. Marchando ao longo da avenida. Só mais um dia e vamos passar._" 🎶  
 Isso significa o fim? Ou será que não?  
@@ -310,7 +310,7 @@ Renuncio ao conforto, à covardia e à mediocridade. Aceito a dor no peito e sig
 ### Relato do dia 10 de Junho de 2025, no intervalo entre duas sessões de estudo:
 
 > Eu continuo sentindo dor. Até quando isso vai durar? Sinto uma dor física em meu peito e tenho vontade de chorar. Eu sinto raiva. Eu sinto angústia. Eu estou completamente fora da minha zona de conforto. É como se eu estivesse numa guerra, num campo de batalha sangrento e instável.  
-> Mas a vida nem sempre será ensolarada e acolhedora. Ouvi de um grande homem que, nada de bom se conquista, caso não estejamos procurando por nós mesmos. Não se evolui sem passar pelo inferno. Só crescemos quando nos superamos, dia após dia.  
+> Mas a vida nem sempre será ensolarada e acolhedora. Ouvi de um grande homem que nada de bom se conquista, caso não estejamos procurando por nós mesmos. Não se evolui sem passar pelo inferno. Só crescemos quando nos superamos, dia após dia.  
 > 
 > Eu aceito essa miséria.  
 
