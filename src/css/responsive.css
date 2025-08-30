@@ -2,7 +2,7 @@
  * @file            Responsive CSS
  * @description     CSS file responsible for the responsive behavior of the application. It includes styling adjustments for a wide range of screen sizes—from ultra-wide displays to mobile devices. Special attention has been given to dynamic viewport resizing and scenarios involving limited vertical space.
  * @author          Mário Miguel de Almeida
- * @last-modified   08/22/2025
+ * @last-modified   08/30/2025
  * @dependencies    reset.css, style.css   
 */
 
@@ -31,6 +31,9 @@
         height: auto;
         margin-top: auto;
         padding: 0 3rem 7rem 3rem;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
         flex-direction: column;
         gap: 5rem;
 
