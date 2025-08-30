@@ -1,0 +1,148 @@
+/* 
+ * @file            Responsive CSS
+ * @description     CSS file responsible for the responsive behavior of the application. It includes styling adjustments for a wide range of screen sizes—from ultra-wide displays to mobile devices. Special attention has been given to dynamic viewport resizing and scenarios involving limited vertical space.
+ * @author          Mário Miguel de Almeida
+ * @last-modified   08/22/2025
+ * @dependencies    reset.css, style.css   
+*/
+
+
+@media(min-width: 1920px) {
+    html {
+        font-size: 80%;
+    }
+}
+
+@media(min-width: 2560px) {
+    html {
+        font-size: 100%;
+    }
+}
+
+@media(max-width: 850px) {
+    html {
+        font-size: 58%;
+    }
+}
+
+
+@media(max-width: 768px) {
+    .faq {
+        height: auto;
+        margin-top: auto;
+        padding: 0 3rem 7rem 3rem;
+        flex-direction: column;
+        gap: 5rem;
+
+        & .faq__image-wrapper {
+            width: auto;
+            height: 19.5rem;
+
+            & img {
+                top: -10rem;
+                left: 0;
+            }
+        }
+
+        & .faq__content {
+            & .faq__title {
+                margin-bottom: 3rem;
+                font-size: 3.5rem;
+                text-align: center;
+            }
+
+            & .faq__accordion .faq__accordion-item {
+                &:nth-child(n+1):nth-child(-n+2) {
+                    margin-bottom: 1.5rem;
+                    padding-bottom: 1.5rem;
+                    border-bottom: 0.2rem solid gainsboro;
+                }
+
+                & .faq__accordion-header .faq__accordion-trigger {
+                    & .faq__accordion-question {
+                        font-size: 2.5rem;
+                        text-align: left;
+                    }
+
+                    & .faq__accordion-icon {
+                        & img {
+                            width: 2rem;
+                            height: 1rem;
+                            margin-right: 1.2rem;
+                        }
+                    }
+
+                }
+
+                & .faq__accordion-content {
+                    & .faq__accordion-paragraph {
+                        max-width: auto;
+                        font-size: 2.1rem;
+                    }
+
+                    &.active {
+                        max-height: 110px;
+                        margin-top: 1.6rem;
+                    }
+                }
+            }
+
+
+        }
+    }
+
+    .credits {
+        position: static;
+        margin-top: auto;
+        margin-bottom: 0.8rem;
+        text-align: center;
+
+        & .credits__paragraph small {
+            font-size: 1.8rem;
+        }
+    }
+}
+
+@media (max-height: 480px) {
+    html {
+        font-size: 50%;
+    }
+
+    .faq {
+        margin-top: auto;
+    }
+
+    .credits {
+        position: static;
+        margin-top: auto;
+    }
+}
+
+@media (max-height: 930px) and (max-width: 768px) {
+    body {
+        padding-top: 12rem;
+    }
+
+    .faq {
+        margin-bottom: 3rem;
+    }
+}
+
+
+@media (max-width: 550px) {
+    html {
+        font-size: 50%;
+    }
+}
+
+@media (max-width: 480px) {
+    html {
+        font-size: 40%;
+    }
+}
+
+@media (max-width: 390px) {
+    html {
+        font-size: 35%;
+    }
+}

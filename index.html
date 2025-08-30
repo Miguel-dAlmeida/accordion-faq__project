@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description"
+        content="Website featuring an accordion-style FAQ interface. This application is the sixth exercise from the Intermediate JavaScript Exercises module in the web development course I'm currently enrolled in.">
+    <title>Accordion Project</title>
+    <link rel="stylesheet" href="./src/css/reset.css">
+    <link rel="stylesheet" href="./src/css/style.css">
+    <link rel="stylesheet" href="./src/css/responsive.css">
+    <link rel="shortcut icon" href="./src/images/devQuest_logo.jpg" type="image/x-icon">
+
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100..900&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+    <main class="faq">
+        <div class="faq__image-wrapper">
+            <img class="faq__image" src="./src/images/mainImage.png"
+                alt="Illustration of a person holding a box, representing questions and answers.">
+        </div>
+
+        <section class="faq__content">
+            <h1 class="faq__title">FAQ</h1>
+
+            <div class="faq__accordion" role="region">
+
+                <article class="faq__accordion-item">
+                    <h2 class="faq__accordion-header" data-target="first-item">
+                        <button class="faq__accordion-trigger">
+                            <span class="faq__accordion-question">Lorem ipsum dolor sit amet, consectetur ?</span>
+                            <span class="faq__accordion-icon" aria-hidden="true">
+                                <img class="faq__icon-image--default" src="./src/images/iconImage.png">
+                                <img class="faq__icon-image--active" src="./src/images/iconImageActive.png">
+                            </span>
+                        </button>
+                    </h2>
+                    <div id="first-item" class="faq__accordion-content" role="region">
+                        <p class="faq__accordion-paragraph">Lorem ipsum dolor sit amet, consectetur
+                            adipiscing elit.
+                            Vivamus quis egestas ex, a elementum est. Mauris auctor nunc quis erat.</p>
+                    </div>
+                </article>
+
+                <article class="faq__accordion-item">
+                    <h2 class="faq__accordion-header" data-target="second-item">
+                        <button class="faq__accordion-trigger">
+                            <span class="faq__accordion-question">Lorem ipsum dolor sit amet ?</span>
+                            <span class="faq__accordion-icon" aria-hidden="true">
+                                <img class="faq__icon-image--default" src="./src/images/iconImage.png">
+                                <img class="faq__icon-image--active" src="./src/images/iconImageActive.png">
+                        </button>
+                    </h2>
+                    <div id="second-item" class="faq__accordion-content" role="region">
+                        <p class="faq__accordion-paragraph">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                            Vivamus quis egestas ex, a elementum est. Mauris auctor nunc quis erat.</p>
+                    </div>
+                </article>
+
+                <article class="faq__accordion-item">
+                    <h2 class="faq__accordion-header" data-target="third-item">
+                        <button class="faq__accordion-trigger">
+                            <span class="faq__accordion-question">Lorem ipsum dolor sit ?</span>
+                            <span class="faq__accordion-icon" aria-hidden="true">
+                               <img class="faq__icon-image--default" src="./src/images/iconImage.png">
+                                <img class="faq__icon-image--active" src="./src/images/iconImageActive.png">
+                        </button>
+                    </h2>
+                    <div id="third-item" class="faq__accordion-content" role="region">
+                        <p class="faq__accordion-paragraph">Lorem ipsum dolor sit amet, consectetur
+                            adipiscing elit.
+                            Vivamus quis egestas ex, a elementum est. Mauris auctor nunc quis erat.</p>
+                    </div>
+                </article>
+
+            </div>
+        </section>
+    </main>
+
+    <footer class="credits">
+        <p class="credits__paragraph">
+            <small>
+                Challenge by&nbsp;<a class="credits__link" href="https://evento.devemdobro.com/lista-de-espera"
+                    target="_blank" rel="noopener noreferrer" translate="no">DevQuest Course</a>.
+                Coded by&ensp;<a class="credits__link" href="https://github.com/Miguel-dAlmeida" target="_blank"
+                    rel="noopener noreferrer" translate="no">Mário Miguel de Almeida</a>.
+            </small>
+        </p>
+    </footer>
+
+
+    <script src="./src/js/index.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,49 @@
+/* 
+ * @file            Style CSS
+ * @description     A CSS file intended to normalize page styles by eliminating browser-imposed visual rules, ensuring a consistent baseline for further design customization.
+ * @author          Mário Miguel de Almeida
+ * @last-modified   08/27/2025  
+*/
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    min-height: 100vh;
+    box-sizing: border-box;
+    font-family: "Robto", 'Segoe UI';
+    font-weight: 300;
+    color: black;
+}
+
+h1, h2, small {
+    font-size: inherit;
+    font-weight: inherit;
+}
+
+button {
+    background: none;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+:focus {
+    outline: none;
+}
+
+:focus-visible {
+    outline: 2px solid red;
+}
