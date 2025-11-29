@@ -287,9 +287,9 @@ No curso de neurociência, aprendi a importância de equilibrar a vida em dois m
 
 Por isso, reservo tempo de qualidade para atividades como essa escrita, mesmo quando minha autocrítica insiste em gritar: *“Vamos, cara, você está perdendo tempo. Volte a produzir imediatamente.”*
 
-A verdade é que nunca me enxerguei como alguém equilibrado. Sobrevivo graças à disciplina, às sessões exaustivas de estudo, à renúncia aos prazeres e ao confronto com tarefas difíceis. Mas hoje consigo ser mais flexível: aceito parar para organizar, preparar o terreno, **afiar o machado** — sem me obrigar a estar em produção constante.
+A verdade é que nunca me enxerguei verdadeiramente como alguém equilibrado. Sobrevivo graças à disciplina, às sessões exaustivas de estudo, à renúncia aos prazeres e ao confronto com tarefas difíceis. Mas hoje consigo ser mais flexível: aceito parar para organizar, preparar o terreno, **afiar o machado** — sem me obrigar a estar em produção constante.
 
-Uma metáfora que me marcou e inspirou essa mudança veio do vídeo [*Não ignore a manutenção da sua vida*](https://www.youtube.com/watch?v=_piJ_68V1B8), do canal Pinho.
+Uma metáfora que me marcou e inspirou essa mudança veio do vídeo [*Não ignore a manutenção da sua vida*](https://www.youtube.com/watch?v=_piJ_68V1B8), do canal **Pinho**.
 
 > Num dia ensolarado, um homem observou um trabalhador tentando cortar uma árvore. O esforço era intenso, mas o machado estava cego, e os golpes mal arranhavam a madeira. Ao sugerir que ele parasse para afiá-lo, o trabalhador respondeu:
 > *“Não tenho tempo para isso. Preciso trabalhar.”*
@@ -298,22 +298,22 @@ Uma metáfora que me marcou e inspirou essa mudança veio do vídeo [*Não ignor
 
 Ainda assim, reconheço: não há momentos de maior identificação pessoal do que quando me reencontro com minha voz interna desequilibrada e implacável. Ela aparece quando penso em desistir, quando sinto medo, preguiça, raiva ou angústia. É nesses instantes — quando orgulho, vaidade, inseguranças e mediocridade me esmagam — que escuto aquela voz brutal:
 
-*“Que merda você está pensando? Como assim não vai fazer? Como assim não vai mandar tudo à merda e continuar? Como assim não vai engolir essa angústia e passar por cima da dor?”*
+*“O que você está pensando? Como assim não vai fazer? Como assim não vai mandar tudo àquele lugar e continuar? Como assim não vai engolir tudo isso e passar por cima da dor?”*
 
 E então respondo:
 
-*“Eu conheço a verdade. Já estive na zona do arrependimento. Eu sei o que é a dor de não ter tentado. Eu já passei por isso inúmeras vezes e sobrevivi. Hoje é o dia que eu esperava. Convido todos vocês — medo, preguiça, inseguranças — a se sentarem comigo e me acompanharem na dança. Mergulhem comigo no fogo, testem sua criatividade para me fuder, tentem me derrubar… para então eu subjugá-los com o peso da minha vitória.”*
+*“Eu conheço a verdade. Já estive na zona do arrependimento. Eu sei o que é a dor de não ter tentado. Eu já passei por isso inúmeras vezes e sobrevivi. Hoje é o dia que eu esperava. Convido todos vocês — medo, preguiça, inseguranças — a se sentarem comigo e me acompanharem na dança. Mergulhem comigo no fogo, testem sua criatividade para me travar, tentem me derrubar… Eu estive esperando por esse dia.*
 
 É nesse momento que escrevo no meu caderno: **“Eu renuncio!”**
 Renuncio ao conforto, à covardia e à mediocridade. Aceito a dor no peito e sigo adiante. Esse é o meu verdadeiro dom: a capacidade de mergulhar no sofrimento e ouvir a voz implacável que não me deixa desistir.
 
-### Relato do dia 10 de Junho de 2025, no intervalo entre duas sessões de estudo:
+**Nota importante:** Não confundam minhas palavras: não considero que cada dia de estudo, trabalho ou treino seja sofrimento. Pelo contrário, gosto da disciplina e até encontro prazer nas tarefas difíceis. O que quero dizer é que assumir responsabilidades diariamente inevitavelmente traz dor. Não há como escapar — existirão dias ruins, contratempos e frustrações. Minha forma de seguir em frente nesses momentos é peculiar: enfrento a dor com a própria dor. Foi assim, com essa estratégia um pouco melancólica, que consegui construir consistência.
 
-> Eu continuo sentindo dor. Até quando isso vai durar? Sinto uma dor física em meu peito e tenho vontade de chorar. Eu sinto raiva. Eu sinto angústia. Eu estou completamente fora da minha zona de conforto. É como se eu estivesse numa guerra, num campo de batalha sangrento e instável.  
-> Mas a vida nem sempre será ensolarada e acolhedora. Ouvi de um grande homem que nada de bom se conquista, caso não estejamos procurando por nós mesmos. Não se evolui sem passar pelo inferno. Só crescemos quando nos superamos, dia após dia.  
-> 
-> Eu aceito essa miséria.  
+> *As pessoas me perguntam: **“Como você correu com os pés quebrados, com as canelas fraturadas?”** Minha mente sabia: é assim que operamos. Estamos no treinamento dos SEALs da Marinha. É o que somos. Isso se tornou a minha nova norma. Não dei a mim mesmo nenhuma saída. Não havia nada fora daquelas paredes do inferno. Nada.  
+Eu amo Deus, mas, por um curto período de tempo, eu me tornei o diabo — porque aquilo era o inferno. Eu me tornei o SEAL dentro do treinamento dos SEALs da Marinha. Essa era a minha mentalidade. Você se coloca, se emerge seja lá onde for, e se torna aquilo, sem se dar nenhuma saída.  
+Eu encontrei paz do outro lado, ao me encontrar. E ninguém realmente se encontra sem passar por provações, tribulações, sofrimento e responsabilidade. **E responsabilidade é sofrimento. Ser responsável todos os dias — por fazer a coisa certa, por você mesmo, pelas pessoas ao seu redor — é difícil, é miserável.*** — **David Goggins**
 
+> *Nunca se esqueça: a conquista de si mesmo é um processo permanente. Nunca é hora de parar.* — **David Goggins**
 
 Voltando à parte acadêmica, meu próximo desafio será a etapa **“Quest HTML + CSS + JS Intermediário”** do curso _DevQuest_. Nela, colocarei em prática os aprendizados dos módulos de **HTML** e **CSS Avançados** junto ao **JavaScript Intermediário**, desenvolvendo um formulário com validação de dados.
 
